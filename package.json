@@ -1,0 +1,17 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "prime checker",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "ISC",
+  "author": "Dante",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
